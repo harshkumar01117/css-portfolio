@@ -377,7 +377,7 @@ nav ul li a:hover{
 
 
  .div-1-0{
-    height: 600px;
+    height: 1000px;
     width: 485px;
     display: flex;
     background-color:#eff4fd ;
@@ -424,7 +424,7 @@ nav ul li a:hover{
  .div-2-0{
     background-color:#F5F7F8;
     width: 485px;
-    height: 700px;
+    height: 1000px;
     font-weight: 500;
     color: b;
     font-family:  "Verdana", sans-serif;
@@ -466,7 +466,7 @@ nav ul li a:hover{
  .div-3-0{
    background-color:white;
    width:325px;
-   height: 700px;
+   height: 1200px;
 
  }
 
