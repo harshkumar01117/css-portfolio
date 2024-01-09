@@ -321,7 +321,7 @@ color:blue ;
   nav{
     display: flex;
     /* position: fixed; */
-    width: 400px;
+    width: 335px;
     height:60px;
     justify-content: space-between;
     z-index: 100;
@@ -333,8 +333,8 @@ margin-top: 0;
 
 .img-logo{
   position: relative;
-  height: 45px;
-  top:7px;
+  height: 40px;
+  top:9px;
   left:5px;
 }
 
@@ -343,12 +343,13 @@ nav ul li{
 
     display:inline-flex;
     position: relative;
-    margin:0px 2px ;
-   margin-bottom: 8px;;
+    margin:0px 2px;
+   margin-bottom: 3px;;
    /* margin-right: 10px; */
 
-  left:10px;
-  margin-right: 50px;
+  left:1px;
+  margin-right: 3px;
+  top:5px;
 
 }
 /* done */
@@ -378,28 +379,28 @@ nav ul li a:hover{
 
  .div-1-0{
     height: 500px;
-    width: 400px;
+    width: 335px;
     display: flex;
     background-color:#eff4fd ;
  }
 
  .div-1-1{
-    height:40px;
+    height:30px;
     width:200px;
-  margin-left: 15px;
-  margin-top: 20%;
+  margin-left: 0px;
+  margin-top: 180px;
   
  }
 
  .img-3{
-  height: 250px;
-  width: 230px;
+  height: 200px;
+  width: 190px;
  }
 
  .div-1-2{
    position: relative;
- left: 40px;
- top:60px;
+ left: 10px;
+ top:130px;
  height:500px;
    
  }
@@ -407,7 +408,7 @@ nav ul li a:hover{
  .h1-main{
   position: relative;
     font-weight: 600;
-    font-size: 30px;
+    font-size: 15px;
     font-family: Roboto, sans-serif;
     left:30px;
     top:20px;
@@ -424,9 +425,9 @@ nav ul li a:hover{
  .div-2-0{
     background-color:#F5F7F8;
     height: 500px;
-    width: 400px;
+    width: 335px;
     font-weight: 500;
-    color: b;
+   
     font-family:  "Verdana", sans-serif;
     
 
@@ -434,9 +435,9 @@ nav ul li a:hover{
 
  .para-1{
    position: relative;
-   top:20px;
+   top:0px;
    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   font-size: 10px;
+   font-size: 15px;
  }
 
 
@@ -446,15 +447,15 @@ nav ul li a:hover{
  .div-2-1{
     width:300px;
    position: relative;
-   top:130px;
-   left:70px;
-   width:325px;
+   top:70px;
+   left:100px;
+   width:160px;
    
    
  }
  .div-2-1-1{
   position: relative;
-  left:80px;
+  left:0px;
   font-size: larger;
  
  }
@@ -466,13 +467,13 @@ nav ul li a:hover{
  .div-3-0{
    background-color:white;
    height: 500px;
-   width: 400px;
+   width: 335px;
  }
 
 
  .div-4-0{
     background-color: white;
-    width: 520px;
+    width: 335px;
     height:500px;
 
  }
@@ -492,47 +493,48 @@ nav ul li a:hover{
 
    font-family: Roboto, sans-serif;
    font-size: 10px;
-gap:50px;
+gap:30px;
  
  }
 
  .div-3-1{
 
-  top:80px;
-   position: relative;
-width:100px;
+  top:90px;
+   position: relaive;
+   width:80px;
 border-bottom: 20px;
-padding: 5px;
-margin-right: 20px;
+padding: 0px;
+margin-right: 10px;
  }
 
  
  .div-3-2{  
-  top:100px;
+  top:115px;
   position: relative;
-  width:100px;
-  padding: 5px;  margin-right: 20px;
+  width:80px;
+  padding: 0px;
+   margin-right: 20px;
  }
   
  .div-3-3{
-  top:80px;
+  top:90px;
   position: relative;
-  width:100px;
+  width:80px;
   border-bottom: 20px;
-  padding: 5px;
+  padding: 0px;
   margin-right: 150px;
  }
   
  .div-3-4{
-  width:100px;
-  padding: 5px;
+  width:80px;
+  padding: 0px;
   position: relative;
   top:105px;
   margin-right: 50px;
 
  }
  .div-3-1-0{
-height: 40px;
+height: 30px;
  }
 
  .div-3-1-2{
@@ -553,7 +555,7 @@ left:200px
  .div-4-0{
   background-color: white;
   height: 500px;
-  width: 400px;
+  width: 00px;
  
 
  }
@@ -573,6 +575,8 @@ left:200px
  }
 
  .btn{
+  display: flex;
+  justify-content: center;
   z-index: 100;
   left:10px;
   z-index: 1000;
@@ -584,8 +588,8 @@ font-family: Roboto, sans-serif;
 color:black;
 font-weight: 500;
 text-decoration: none;
-height:100px;
-padding: 5px;
+height:20px;
+padding: 3px;
 border-radius: 20px;
 background-color: aqua;
 font-size: smaller;
@@ -594,7 +598,7 @@ font-size: smaller;
 
 .img-navi{
   height:400px;
-  width: 450px;
+  width: 350px;
 }
 
  .btn:hover{
@@ -607,10 +611,10 @@ font-size: smaller;
 
  .bottom-container {
   background-color: #FFC436;
-  padding: 20px 10px 17px 10px;
+  padding: 10px 5px 17px 10px;
   text-align: center;
   height: 35px;
-  width:500px;
+  width:315px;
 
 }
 
