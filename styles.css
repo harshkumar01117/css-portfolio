@@ -321,7 +321,7 @@ color:blue ;
   nav{
     display: flex;
     /* position: fixed; */
-    width: 485px;
+    width: 520px;
     height:60px;
     justify-content: space-between;
     z-index: 100;
@@ -377,8 +377,8 @@ nav ul li a:hover{
 
 
  .div-1-0{
-    height: 1000px;
-    width: 485px;
+    height: 800px;
+    width: 520px;
     display: flex;
     background-color:#eff4fd ;
  }
@@ -423,8 +423,8 @@ nav ul li a:hover{
 
  .div-2-0{
     background-color:#F5F7F8;
-    width: 485px;
-    height: 1000px;
+    width: 520px;
+    height: 800px;
     font-weight: 500;
     color: b;
     font-family:  "Verdana", sans-serif;
@@ -465,15 +465,15 @@ nav ul li a:hover{
 
  .div-3-0{
    background-color:white;
-   width:325px;
-   height: 1200px;
+   width: 520px;
+   height: 800px;
 
  }
 
 
  .div-4-0{
     background-color: white;
-    width:325px;
+    width: 520px;
     height:500px;
 
  }
